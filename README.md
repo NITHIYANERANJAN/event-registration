@@ -27,8 +27,7 @@ To design, develop and deploy a web application for event registration.
 
 7.Publish the website in the given URL.
 
-## DESIGN:
-figma
+
 ## PROGRAM :
 ```html
 <div style="width: 100%; height: 100%; position: relative; background: #53B98E">
