@@ -3,29 +3,29 @@
 ## AIM:
 To design, develop and deploy a web application for event registration.
 
-## DESIGN STEPS:
+## ALGORITHM
 
-### Step 1:
-Create a new frame
 
-### Step 2:
-Select any one preset size of your choice
+1.Create a new frame
 
-### Step 3:
-Select the shapes you need 
 
-### Step 4:
-Import images as needed
+2.Select any one preset size of your choice
 
-### Step 5:
-create a page you need and link them
-### Step 6:
 
-Validate the HTML and CSS code.
+3.Select the shapes you need 
 
-### Step 6:
 
-Publish the website in the given URL.
+4.Import images as needed
+
+
+5.create a page you need and link them
+
+
+6.Validate the HTML and CSS code.
+
+
+
+7.Publish the website in the given URL.
 
 ## DESIGN:
 figma
